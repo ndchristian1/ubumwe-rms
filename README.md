@@ -22,7 +22,7 @@ Open http://localhost:5173
 
 ## Modules
 
-- Dashboard — live analytics
+- Dashboard — live analytics and important information
 - Point of Sale — barcode scan, payments, receipts
 - Products — full inventory CRUD
 - Categories & Brands
