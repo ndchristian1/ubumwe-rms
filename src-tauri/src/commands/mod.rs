@@ -1,0 +1,13 @@
+pub mod activity;
+pub mod backup;
+pub mod batches;
+pub mod dashboard;
+pub mod expiry;
+pub mod inventory;
+pub mod medicines;
+pub mod pharmacy;
+pub mod reports;
+pub mod settings;
+pub mod pos;
+pub mod suppliers;
+pub mod tax;
